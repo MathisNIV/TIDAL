@@ -15,9 +15,12 @@ header {
     margin: 0;
     padding: 0;
     display: flex;
+    width: 100%;
   }
   nav li {
     margin-right: 20px;
+    width: 100%;
+    text-align: center;
   }
   nav a {
     color: #fff;
